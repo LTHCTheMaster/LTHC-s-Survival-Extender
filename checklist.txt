@@ -5,9 +5,9 @@
 [X] Loading Message
 [X] Basic Advancements
 [V] Bases of the Loops
-[X] 
-[X] 
-[X] 
+[X] Add "Magmasium Ore"
+[X] Add "Magmasium Armor"
+[X] Modify tree gen
 [X] 
 [X] 
 [X] 
