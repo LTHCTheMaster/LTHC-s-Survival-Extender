@@ -5,5 +5,8 @@ scoreboard objectives add LTHC_Data_ dummy
 execute unless score $lthc.First_run LTHC_Data_ matches 1 run function lthc.svext:loading/first_run/main
 execute if score $lthc.First_run LTHC_Data_ matches 1 unless score $lthc.Version LTHC_Data_ matches 010000 run function lthc.svext:loading/first_run/update
 
+# Start loops
+schedule function lthc.svext:schedule 1t
+
 # Saves that the datapack was started/loaded
 scoreboard players set $lthc.Loaded LTHC_Data_ 1

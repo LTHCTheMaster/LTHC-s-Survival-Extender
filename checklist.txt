@@ -4,7 +4,7 @@
 [X] Scoreboard
 [X] Loading Message
 [X] Basic Advancements
-[X] Loops
+[V] Bases of the Loops
 [X] 
 [X] 
 [X] 
