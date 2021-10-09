@@ -1,0 +1,8 @@
+{
+    "values": [
+        "#lthc.svext:_private/load/init",
+        {"id": "#lthc.svext:_private/load/pre_load", "required": false},
+        {"id": "#lthc.svext:_private/load", "required": false},
+        {"id": "#lthc.svext:_private/load/post_load", "required": false}
+    ]
+}

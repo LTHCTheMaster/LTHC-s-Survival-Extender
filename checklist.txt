@@ -1,0 +1,28 @@
+  ## CHECKLIST ##
+
+[V] Bases of the Loading System (Ordered loading and Advanced reloading (check if it is the first load or an update or a simple loading))
+[X] Scoreboard
+[X] Loading Message
+[X] Basic Advancements
+[X] Loops
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
+[X] 
