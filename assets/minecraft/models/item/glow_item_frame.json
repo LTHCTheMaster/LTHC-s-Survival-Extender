@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/glow_item_frame"
+    },
+  
+    "overrides": [
+          {"predicate": {"custom_model_data":101110}, "model": "lthc.svext:magmasium_ore"}
+    ]
+}

@@ -38,13 +38,4 @@ scoreboard players reset PosX LTHC_Data_
 scoreboard players reset PosY LTHC_Data_
 scoreboard players reset PosZ LTHC_Data_
 scoreboard players reset MaxY LTHC_Data_
-scoreboard players reset 1500 LTHC_Data_
-scoreboard players reset 1000 LTHC_Data_
-scoreboard players reset 400 LTHC_Data_
-scoreboard players reset 260 LTHC_Data_
-scoreboard players reset 200 LTHC_Data_
-scoreboard players reset 100 LTHC_Data_
-scoreboard players reset 10 LTHC_Data_
-scoreboard players reset -1 LTHC_Data_
-scoreboard players reset WorldBottom LTHC_Data_
 tag @s remove LTHC_ChunkInit
