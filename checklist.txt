@@ -6,7 +6,7 @@
 [X] Basic Advancements
 [V] Bases of the Loops
 [V] Add "Magmasium Ore" generation
-[V] Add "Magmasium Ore" drop: "Magamsium Matter"
+[V] Add "Magmasium Ore" drops: "Magamsium Matter" (one of the two properties) "Magmasium Ore" (the last properties)
 [X] Add "Magmasium Armor"
 [X] Modify tree gen
 [X] 
