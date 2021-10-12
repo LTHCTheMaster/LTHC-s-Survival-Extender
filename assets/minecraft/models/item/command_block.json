@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/command_block",
+  
+  "overrides": [
+        {"predicate": {"custom_model_data":101110}, "model": "lthc.svext:magmasium_matter"}
+  ]
+}
