@@ -2,6 +2,7 @@
   "parent": "minecraft:block/command_block",
   
   "overrides": [
-        {"predicate": {"custom_model_data":101110}, "model": "lthc.svext:magmasium_matter"}
+        {"predicate": {"custom_model_data":101110}, "model": "lthc.svext:magmasium_matter"},
+        {"predicate": {"custom_model_data":101111}, "model": "lthc.svext:magmasium_crystal"}
   ]
 }
