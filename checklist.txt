@@ -7,7 +7,7 @@
 [V] Bases of the Loops
 [V] Add "Magmasium Ore" generation
 [V] Add "Magmasium Ore" drops: "Magamsium Matter" (one of the two properties) "Magmasium Ore" (the last properties)
-[X] Custom Crafting Table
+[V] Custom Crafting Table
 [X] Magmasium Crystal
 [X] Add "Magmasium Armor"
 [X] Modify tree gen
