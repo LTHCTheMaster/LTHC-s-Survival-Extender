@@ -6,11 +6,11 @@
 [X] Basic Advancements
 [V] Bases of the Loops
 [V] Add "Magmasium Ore" generation
-[V] Add "Magmasium Ore" drops: "Magamsium Matter" (one of the two properties) "Magmasium Ore" (the last properties)
+[V] Add "Magmasium Ore" drops: "Magamsium Matter"
 [V] Custom Crafting Table
 [V] Magmasium Crystal
-[X] Add "Magmasium Armor"
-[X] Modify tree gen
+[?] Add "Magmasium Armor"
+[?] Modify tree gen
 [X] 
 [X] 
 [X] 
