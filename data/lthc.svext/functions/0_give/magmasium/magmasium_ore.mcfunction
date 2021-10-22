@@ -1,0 +1,1 @@
+give @s glow_item_frame{CustomModelData:101110,lthc.magmasium_ore_given:1b,display:{Name:'{"translate": "Magmasium Ore","color": "#DD1111"}'},EntityTag:{ItemRotation:0b,Tags:["lthc.magmasium_ore_given"],Invisible:1b,Invulnerable:1b,Fixed:1b,Silent:1b,Facing:1b,Item:{id:"glow_item_frame",Count:1b,tag:{CustomModelData:101110}}}} 1

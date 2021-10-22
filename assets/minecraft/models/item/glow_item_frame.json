@@ -6,6 +6,7 @@
   
     "overrides": [
           {"predicate": {"custom_model_data":101110}, "model": "lthc.svext:magmasium_ore"},
-          {"predicate": {"custom_model_data":101111}, "model": "lthc.svext:custom_crafting_table"}
+          {"predicate": {"custom_model_data":101111}, "model": "lthc.svext:custom_crafting_table"},
+          {"predicate": {"custom_model_data":101112}, "model": "lthc.svext:magmasium_block"}
     ]
 }
