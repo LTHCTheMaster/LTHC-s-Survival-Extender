@@ -9,3 +9,7 @@ execute as @e[type=glow_item_frame,tag=lthc.custom_crafting_table_placed] at @s 
 ### Magmasium Block
 execute as @e[type=glow_item_frame,tag=lthc.magmasium_block] at @s run function lthc.svext:custom_blocks/magmasium_block/place
 execute as @e[type=glow_item_frame,tag=lthc.magmasium_block_placed] at @s unless block ~ ~ ~ stone_bricks run function lthc.svext:custom_blocks/magmasium_block/destroy
+
+### Pig Block
+execute as @e[type=glow_item_frame,tag=lthc.pig_block] at @s run function lthc.svext:custom_blocks/pig_block/place
+execute as @e[type=glow_item_frame,tag=lthc.pig_block_placed] at @s unless block ~ ~ ~ stone_bricks run function lthc.svext:custom_blocks/pig_block/destroy
