@@ -1,4 +1,3 @@
-function lthc.svext:crafting_table_building/assemble
-function lthc.svext:craft/run
+function #lthc.svext:loops/second
 
 schedule function lthc.svext:loops/second 1s
