@@ -11,8 +11,8 @@
 [V] Magmasium Crystal
 [V] Magmasium Block
 [V] Some Useful Utils
-[?] Add "Magmasium Armor"
-[?] Modify tree gen
+[X] 
+[X] 
 [X] 
 [X] 
 [X] 

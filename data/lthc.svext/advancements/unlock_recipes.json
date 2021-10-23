@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "lthc.svext:rewards/unlock_recipes"
+    }
+}
