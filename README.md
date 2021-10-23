@@ -13,5 +13,4 @@ LTHC's Survival Extender ("lthc.svext") is a datapack (which require a resources
 - New Ore(s)
 - New Block(s)
 - New Material(s)
-- Some reworking of vanilla things (not currently)
 - Some useful things
