@@ -1,0 +1,11 @@
+{
+  "condition": "minecraft:location_check",
+  "predicate": {
+    "block": {
+      "blocks": [
+        "minecraft:dropper"
+      ],
+      "nbt": "{Items:[{Slot:0b,id:\"minecraft:porkchop\"},{Slot:1b,id:\"minecraft:porkchop\"},{Slot:2b,id:\"minecraft:porkchop\"},{Slot:3b,id:\"minecraft:porkchop\"},{Slot:4b,id:\"minecraft:glow_item_frame\",Count:1b,tag:{lthc.magmasium_block:1b}},{Slot:5b,id:\"minecraft:porkchop\"},{Slot:6b,id:\"minecraft:porkchop\"},{Slot:7b,id:\"minecraft:porkchop\"},{Slot:8b,id:\"minecraft:porkchop\"}]}"
+    }
+  }
+}
