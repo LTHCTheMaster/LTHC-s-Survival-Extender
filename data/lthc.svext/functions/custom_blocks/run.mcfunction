@@ -16,15 +16,5 @@ execute as @e[type=glow_item_frame,tag=lthc.pig_block_placed] at @s unless block
 
 ### Pig Seeds
 execute as @e[type=glow_item_frame,tag=lthc.pig_seeds] at @s if block ~ ~-1 ~ stone_bricks if entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/place
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds] at @s if block ~ ~-1 ~ stone_bricks unless entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds] at @s unless block ~ ~-1 ~ stone_bricks if entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds] at @s unless block ~ ~-1 ~ stone_bricks unless entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_stage_0] at @s if block ~ ~-1 ~ stone_bricks unless entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_stage_0] at @s unless block ~ ~-1 ~ stone_bricks if entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_stage_0] at @s unless block ~ ~-1 ~ stone_bricks unless entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_stage_1] at @s if block ~ ~-1 ~ stone_bricks unless entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_stage_1] at @s unless block ~ ~-1 ~ stone_bricks if entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_stage_1] at @s unless block ~ ~-1 ~ stone_bricks unless entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_stage_2] at @s if block ~ ~-1 ~ stone_bricks unless entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_stage_2] at @s unless block ~ ~-1 ~ stone_bricks if entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
-execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_stage_2] at @s unless block ~ ~-1 ~ stone_bricks unless entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/destroy
+execute as @e[type=glow_item_frame,tag=lthc.pig_seeds] at @s run function lthc.svext:custom_blocks/pig_seeds/check
+execute as @e[type=glow_item_frame,tag=lthc.pig_seeds_destroy] at @s run function lthc.svext:custom_blocks/pig_seeds/check
