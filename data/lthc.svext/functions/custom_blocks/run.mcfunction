@@ -6,13 +6,9 @@ execute as @e[type=glow_item_frame,tag=lthc.magmasium_ore] at @s unless block ~ 
 execute as @e[type=glow_item_frame,tag=lthc.custom_crafting_table] at @s run function lthc.svext:custom_blocks/magmasium_table/place
 execute as @e[type=glow_item_frame,tag=lthc.custom_crafting_table_placed] at @s unless block ~ ~ ~ dropper run function lthc.svext:custom_blocks/magmasium_table/destroy
 
-### Magmasium Block
-execute as @e[type=glow_item_frame,tag=lthc.magmasium_block] at @s run function lthc.svext:custom_blocks/magmasium_block/place
-execute as @e[type=glow_item_frame,tag=lthc.magmasium_block_placed] at @s unless block ~ ~ ~ stone_bricks run function lthc.svext:custom_blocks/magmasium_block/destroy
-
-### Pig Block
-execute as @e[type=glow_item_frame,tag=lthc.pig_block] at @s run function lthc.svext:custom_blocks/pig_block/place
-execute as @e[type=glow_item_frame,tag=lthc.pig_block_placed] at @s unless block ~ ~ ~ stone_bricks run function lthc.svext:custom_blocks/pig_block/destroy
+### Stone Bricks Based (stbk)
+execute as @e[type=glow_item_frame,tag=lthc.base.stbk] at @s unless block ~ ~ ~ stone_bricks run function lthc.svext:custom_blocks/based/stbk_place
+execute as @e[type=glow_item_frame,tag=lthc.base.stbk_placed] at @s unless block ~ ~ ~ stone_bricks run function lthc.svext:custom_blocks/based/stbk
 
 ### Pig Seeds
 execute as @e[type=glow_item_frame,tag=lthc.pig_seeds] at @s if block ~ ~-1 ~ stone_bricks if entity @e[type=glow_item_frame,tag=lthc.pig_block_placed,distance=..1] run function lthc.svext:custom_blocks/pig_seeds/place

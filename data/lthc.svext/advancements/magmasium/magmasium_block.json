@@ -15,7 +15,7 @@
         "announce_to_chat": true,
         "show_toast": true
     },
-    "parent": "lthc.svext:magmasium/magmasium_matter",
+    "parent": "lthc.svext:magmasium/magmasium_crystal",
     "criteria": {
         "unlock": {
             "trigger": "inventory_changed",
