@@ -1,15 +1,18 @@
   ## CHECKLIST ##
 
 [V] Bases of the Loading System (Ordered loading and Advanced reloading (check if it is the first load or an update or a simple loading))
-[X] Scoreboard
+[V] Scoreboard
 [X] Loading Message
-[X] Basic Advancements
+[V] Basic Advancements
 [V] Bases of the Loops
 [V] Add "Magmasium Ore" generation
 [V] Add "Magmasium Ore" drops: "Magamsium Matter"
 [V] Custom Crafting Table
 [V] Magmasium Crystal
 [V] Magmasium Block
+[V] Magmasium Block Properties
+[V] Pig Block
+[V] Pig Seeds
 [V] Some Useful Utils
 [X] 
 [X] 

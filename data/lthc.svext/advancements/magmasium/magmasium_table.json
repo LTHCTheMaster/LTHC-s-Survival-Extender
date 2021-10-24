@@ -1,0 +1,33 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glow_item_frame",
+            "nbt": "{CustomModelData:101111}"
+        },
+        "title": {
+            "translate": "Magma-Craft",
+            "color": "#DD1111"
+        },
+        "description": {
+            "translate": "Drop a Magmasium Matter on a crafting table"
+        },
+        "announce_to_chat": false,
+        "show_toast": true
+    },
+    "parent": "lthc.svext:magmasium/magmasium_matter",
+    "criteria": {
+        "unlock": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "glow_item_frame"
+                        ],
+                        "nbt": "{lthc.custom_crafting_table:1b}"
+                    }
+                ]
+            }
+        }
+    }
+}

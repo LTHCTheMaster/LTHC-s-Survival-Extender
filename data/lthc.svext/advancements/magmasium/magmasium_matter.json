@@ -1,0 +1,33 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:101110}"
+        },
+        "title": {
+            "translate": "Oh, Magmasium",
+            "color": "#DD1111"
+        },
+        "description": {
+            "translate": "Get a Magmasium Matter"
+        },
+        "announce_to_chat": false,
+        "show_toast": true
+    },
+    "parent": "lthc.svext:root",
+    "criteria": {
+        "unlock": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "command_block"
+                        ],
+                        "nbt": "{lthc.magmasium_matter:1b}"
+                    }
+                ]
+            }
+        }
+    }
+}

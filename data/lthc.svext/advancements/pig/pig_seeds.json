@@ -1,0 +1,34 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glow_item_frame",
+            "nbt": "{CustomModelData:101114}"
+        },
+        "title": {
+            "translate": "\"Pig Seeds\"??!",
+            "color": "#FF8888"
+        },
+        "description": {
+            "translate": "Get Pig Seeds"
+        },
+        "frame": "challenge",
+        "announce_to_chat": true,
+        "show_toast": true
+    },
+    "parent": "lthc.svext:pig/pig_block",
+    "criteria": {
+        "unlock": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "glow_item_frame"
+                        ],
+                        "nbt": "{lthc.pig_seeds:1b}"
+                    }
+                ]
+            }
+        }
+    }
+}
