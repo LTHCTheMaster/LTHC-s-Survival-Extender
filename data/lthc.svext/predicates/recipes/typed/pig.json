@@ -1,0 +1,11 @@
+{
+    "condition": "location_check",
+    "predicate": {
+        "block": {
+            "blocks": [
+                "dropper"
+            ],
+            "nbt": "{Items:[{Slot:0b,id:\"minecraft:porkchop\",Count:1b}]}"
+        }
+    }
+}
