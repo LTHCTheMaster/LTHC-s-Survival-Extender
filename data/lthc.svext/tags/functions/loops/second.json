@@ -2,7 +2,6 @@
     "values": [
         "lthc.svext:crafting_table_building/assemble",
         "lthc.svext:craft/run",
-        "lthc.svext:special_properties/properties",
-        "lthc.svext:seeds/grow"
+        "lthc.svext:special_properties/properties"
     ]
 }
