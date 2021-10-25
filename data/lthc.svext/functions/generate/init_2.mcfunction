@@ -1,33 +1,31 @@
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
-summon minecraft:marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
+summon marker ~ 0 ~ {Tags:["LTHC_OrePos"]}
 execute as @e[type=marker,tag=LTHC_OrePos,predicate=lthc.svext:luck] at @s run function lthc.svext:generate/magmasium
-execute as @e[type=marker,tag=LTHC_OrePos] at @s run function lthc.svext:generate/magmasium
+execute as @e[type=marker,tag=LTHC_OrePos] at @s run function lthc.svext:generate/multi_ore_pattern
 
 scoreboard players reset X LTHC_Data_
 scoreboard players reset Y LTHC_Data_

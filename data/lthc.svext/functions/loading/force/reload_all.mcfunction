@@ -17,7 +17,7 @@ function lthc.svext:loading/scoreboard
 # Summon a marker at the worldspawn for something
 execute as @e[type=marker,tag=lthc.svext] at @s run forceload remove ~ ~ ~ ~
 kill @e[type=marker,tag=lthc.svext]
-summon minecraft:marker ~ ~ ~ {UUID: [I; 1711620732, -230536420, -1552235837, 1782417117],Tags:["lthc.svext"]}
+summon marker ~ ~ ~ {UUID: [I; 1711620732, -230536420, -1552235837, 1782417117],Tags:["lthc.svext"]}
 execute as @e[type=marker,tag=lthc.svext] at @s run forceload add ~ ~ ~ ~
 
 # Saves that the datapack was installed
