@@ -22,5 +22,8 @@
     "\"Pig Dirt\"?": "\"Terre de Cochone\"?",
     "Get a Pig Block": "Obtiens un Bloc de Cochon",
     "\"Pig Seeds\"??!": "\"Graines de Cochon\"??!",
-    "Get Pig Seeds": "Obtiens des Graines de Cochon"
+    "Get Pig Seeds": "Obtiens des Graines de Cochon",
+
+    "__comment": "Messages",
+    "current active custom blocks: ": "blocs custom actuellement actifs: "
 }
