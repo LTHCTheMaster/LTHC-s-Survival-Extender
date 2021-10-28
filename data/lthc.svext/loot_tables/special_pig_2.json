@@ -6,19 +6,19 @@
         "entries": [
           {
             "type": "minecraft:item",
-            "weight": 3,
-            "name": "minecraft:iron_nugget",
+            "weight": 5,
+            "name": "minecraft:gold_nugget",
             "functions": [
               {
                 "function": "minecraft:set_count",
-                "count": 3
+                "count": 4
               }
             ]
           },
           {
             "type": "minecraft:item",
             "weight": 1,
-            "name": "minecraft:iron_ingot",
+            "name": "minecraft:diamond",
             "functions": [
               {
                 "function": "minecraft:set_count",
