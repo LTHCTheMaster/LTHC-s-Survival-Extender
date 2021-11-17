@@ -11,6 +11,7 @@
           {"predicate": {"custom_model_data":101113}, "model": "lthc.svext:pig_block"},
           {"predicate": {"custom_model_data":101114}, "model": "lthc.svext:pig_seeds_stage_0"},
           {"predicate": {"custom_model_data":101115}, "model": "lthc.svext:pig_seeds_stage_1"},
-          {"predicate": {"custom_model_data":101116}, "model": "lthc.svext:pig_seeds_stage_2"}
+          {"predicate": {"custom_model_data":101116}, "model": "lthc.svext:pig_seeds_stage_2"},
+          {"predicate": {"custom_model_data":101117}, "model": "lthc.svext:magmasium_growth_booster"}
     ]
 }

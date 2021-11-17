@@ -1,0 +1,1 @@
+give @s glow_item_frame{CustomModelData:101117,lthc.magmasium_block:1b,display:{Name:'{"translate": "Magmasium Growth Booster","color": "#DD1111"}'},EntityTag:{ItemRotation:0b,Tags:["lthc.magmasium_gbooster","lthc.base.stbk","lthc.is_block"],Invisible:1b,Invulnerable:1b,Fixed:1b,Silent:1b,Facing:1b,Item:{id:"glow_item_frame",Count:1b,tag:{CustomModelData:101117}}}} 1
