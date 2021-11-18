@@ -1,0 +1,1 @@
+execute if entity @e[type=glow_item_frame,tag=SF_Seed,tag=!SF_SeedDone,distance=..1,sort=nearest,limit=1] as @e[type=glow_item_frame,tag=SF_Seed,tag=!SF_SeedDone,distance=..1,sort=nearest,limit=1] run scoreboard players add @s SF_Data 1

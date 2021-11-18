@@ -1,6 +1,5 @@
 # Basic Scoreboard
 scoreboard objectives add LTHC_Data_ dummy
-scoreboard objectives add LTHC_Data2_ dummy
 
 # Init Data
 function lthc.svext:loading/data
