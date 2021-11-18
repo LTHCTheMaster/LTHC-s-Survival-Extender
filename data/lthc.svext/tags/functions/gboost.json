@@ -1,0 +1,7 @@
+{
+    "values": [
+        "lthc.svext:gbooster/boost/lthc_seeds",
+        "lthc.svext:gbooster/boost/vanilla_seeds",
+        "lthc.svext:gbooster/boost/stardust_fragment_seeds"
+    ]
+}
