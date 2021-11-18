@@ -1,5 +1,6 @@
 {
     "values": [
-        "#lthc.svext:load"
+        "#lthc.svext:load",
+        "lthc.svext:loading/gamerules_conf"
     ]
 }
