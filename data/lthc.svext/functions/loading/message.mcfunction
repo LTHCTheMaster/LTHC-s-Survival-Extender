@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"LTHC's Survival Extender [ 1.0.0 ]","color":"#FFDD00"},{"text":"\n"},{"text":"--","color":"aqua"},{"text":"  "},{"translate":"Click here to check if a new release is out","color":"dark_gray","clickEvent":{"action":"open_url","value":"https://github.com/LTHCTheMaster/LTHC-s-Survival-Extender/releases"}},{"text":"  --","color":"aqua"}]

@@ -4,3 +4,4 @@ schedule function lthc.svext:loops/tick5 1t replace
 function lthc.svext:loops/tick30
 function lthc.svext:loops/second
 function lthc.svext:loops/minute
+schedule function lthc.svext:loading/message 3s replace
