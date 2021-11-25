@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "air",
+    "cave_air",
+    "void_air",
+    "water",
+    "lava",
+    "grass",
+    "seagrass",
+    "tall_grass",
+    "vine",
+    "fire",
+    "#custom_crafting_table_lthc:place2"
+  ]
+}

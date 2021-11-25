@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "custom_crafting_table_lthc:table/change/book/right_click"
+  },
+  "criteria": {
+    "a": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "custom_crafting_table_lthc:book"
+      }
+    }
+  }
+}

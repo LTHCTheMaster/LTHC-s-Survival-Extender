@@ -1,0 +1,15 @@
+{
+  "rewards": {
+    "function": "custom_crafting_table_lthc:advancments/clear"
+  },
+  "criteria": {
+    "selected": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "nbt": "{Inventory:[{tag:{CCT_GUI_Clear:1}}]}"
+        }
+      }
+    }
+  }
+}

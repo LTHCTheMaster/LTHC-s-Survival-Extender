@@ -1,0 +1,15 @@
+{
+  "condition": "minecraft:location_check",
+  "offsetY": -1,
+  "predicate": {
+    "block": {
+      "nbt": "{TransferCooldown:8}",
+      "state": {
+        "enabled": "true"
+      },
+      "blocks": [
+        "hopper"
+      ]
+    }
+  }
+}

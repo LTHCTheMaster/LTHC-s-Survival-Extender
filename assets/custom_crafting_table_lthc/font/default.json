@@ -1,0 +1,7 @@
+{
+    "providers": [
+            { "type": "bitmap", "file": "custom_crafting_table_lthc:gui/custom_table.png", "ascent": 12, "height": 82, "chars": ["\uEf00"]},
+            { "type": "bitmap", "file": "custom_crafting_table_lthc:gui/negative.png", "ascent": -32768, "height": -10, "chars": ["\uF803"]
+        }
+    ]
+}

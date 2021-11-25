@@ -1,0 +1,8 @@
+{
+    "parent": "custom_crafting_table_lthc:table/item",
+    "overrides": [
+        { "predicate": {"custom_model_data": 30000}, "model": "custom_crafting_table_lthc:table/item"},
+        { "predicate": {"custom_model_data": 30001}, "model": "custom_crafting_table_lthc:table/block"}
+		
+    ]
+}

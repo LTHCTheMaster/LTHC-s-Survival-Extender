@@ -1,0 +1,27 @@
+{
+	"credit": "Made by @JeffWooden_ with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"0": "custom_crafting_table_lthc:table/workbench_bottom",
+		"1": "custom_crafting_table_lthc:table/workbench_east",
+		"2": "custom_crafting_table_lthc:table/workbench_north",
+		"3": "custom_crafting_table_lthc:table/workbench_west",
+		"4": "custom_crafting_table_lthc:table/workbench_south",
+		"5": "custom_crafting_table_lthc:table/workbench_top",
+		"particle": "custom_crafting_table_lthc:table/workbench_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

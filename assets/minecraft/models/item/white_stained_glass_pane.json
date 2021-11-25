@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:block/white_stained_glass"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 30000}, "model": "custom_crafting_table_lthc:gui/invisible"}
+    ]
+  }

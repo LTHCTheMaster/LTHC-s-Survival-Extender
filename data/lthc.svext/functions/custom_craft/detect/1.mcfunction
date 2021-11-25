@@ -1,0 +1,2 @@
+
+execute unless entity @s[tag=CCT_Display_Craft] if data storage custom_crafting_table_lthc:craft Items[{id:"minecraft:glow_item_frame"}] run function lthc.svext:custom_craft/craft/magmasium_crystal_from_magmasium_block

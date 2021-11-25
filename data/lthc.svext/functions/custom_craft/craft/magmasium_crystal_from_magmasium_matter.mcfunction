@@ -1,0 +1,2 @@
+tag @s add CCT_Display_Craft
+execute if entity @s[tag=CCT_Display_Craft] run data modify storage custom_crafting_table_lthc:craft Items[{Slot:15b}] merge value {id:"minecraft:command_block",Count:1b,tag:{display:{Name:'{"translate":"Magmasium Crystal","color":"#DD1111"}'},CustomModelData:101111,lthc.magmasium_crystal:1b}}

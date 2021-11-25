@@ -1,5 +1,6 @@
 {
     "values": [
+        "custom_crafting_table_lthc:load",
         "#lthc.svext:load",
         "lthc.svext:loading/gamerules_conf"
     ]

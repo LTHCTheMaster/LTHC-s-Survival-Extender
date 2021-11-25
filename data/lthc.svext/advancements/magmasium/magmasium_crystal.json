@@ -15,7 +15,7 @@
         "announce_to_chat": false,
         "show_toast": true
     },
-    "parent": "lthc.svext:magmasium/magmasium_table",
+    "parent": "lthc.svext:magmasium/magmasium_matter",
     "criteria": {
         "unlock": {
             "trigger": "inventory_changed",
