@@ -1,41 +1,40 @@
 [
-    {
-      "condition": "minecraft:time_check",
-      "value": {
-        "min": 0,
-        "max": 12610
+  {
+    "condition": "minecraft:time_check",
+    "value": {
+      "min": 0,
+      "max": 12610
+    },
+    "period": 24000
+  },
+  {
+    "condition": "minecraft:location_check",
+    "offsetY": 1,
+    "predicate": {
+      "light": {
+        "light": {
+          "min": 11,
+          "max": 15
+        }
       },
-      "period": 24000
-    },
-    {
-      "condition": "minecraft:location_check",
-      "offsetY": 1,
-      "predicate": {
-        "light": {
-          "light": {
-            "min": 11,
-            "max": 15
-          }
-        },
-        "block": {
-          "tag": "lthc.svext:air"
-        }
-      }
-    },
-    {
-      "condition": "minecraft:location_check",
-      "offsetY": 2,
-      "predicate": {
-        "light": {
-          "light": {
-            "min": 11,
-            "max": 15
-          }
-        },
-        "block": {
-          "tag": "lthc.svext:air"
-        }
+      "block": {
+        "tag": "lthc.svext:air"
       }
     }
-  ]
-  
+  },
+  {
+    "condition": "minecraft:location_check",
+    "offsetY": 2,
+    "predicate": {
+      "light": {
+        "light": {
+          "min": 11,
+          "max": 15
+        }
+      },
+      "block": {
+        "tag": "lthc.svext:air"
+      }
+    }
+  }
+]
