@@ -1,7 +1,7 @@
 {
 	"parent": "block/cube_all",
     "textures": {
-        "all": "lthc.svext:magmasium_block"
+        "all": "lthc.svext:magmasium/blocks/magmasium_block"
     },
 	"display": {
 		"fixed": {

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "lthc.svext:pig_seeds_stage_0"
+		"0": "lthc.svext:pig/blocks/pig_seeds_stage_0"
 	},
 	"elements": [
 		{

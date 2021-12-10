@@ -1,7 +1,6 @@
 {
     "__comment": "Materials",
     "Magmasium Matter": "Matière de Magmasium",
-    "Magmasium Table": "Table de Magmasium",
     "Magmasium Crystal": "Cristal de Magmasium",
     "Magmasium Block": "Bloc de Magmasium",
     "Magmasium Ore": "Minerais de Magmasium",
@@ -14,8 +13,6 @@
     "__comment": "Advancements",
     "Oh, Magmasium": "Oh, Magmasium",
     "Get a Magmasium Matter": "Obtiens une Matière de Magmasium",
-    "Magma-Craft": "Artisanat-Magma",
-    "Drop a Magmasium Matter on a crafting table": "Lancer une Matière de Magmasium sur un établi",
     "Hot Crystal": "Cristal Chaud",
     "Get a Magmasium Crystal": "Obtiens un Cristal de Magmasium",
     "Burning Block": "Bloc Brûlant",

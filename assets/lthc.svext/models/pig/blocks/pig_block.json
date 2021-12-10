@@ -1,7 +1,7 @@
 {
 	"parent": "block/cube_all",
     "textures": {
-        "all": "lthc.svext:magmasium_growth_booster"
+        "all": "lthc.svext:pig/blocks/pig_block"
     },
 	"display": {
 		"fixed": {
