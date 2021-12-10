@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"HRH",
+		"UEU",
+		"HRH"
+	],
+	"key": {
+		"H": {
+			"item": "minecraft:honeycomb"
+		},
+		"R": {
+			"item": "minecraft:rose_bush"
+		},
+		"U": {
+			"item": "minecraft:honey_bottle"
+		},
+		"E": {
+			"item": "minecraft:egg"
+		}
+	},
+	"result": {
+		"item": "minecraft:bee_spawn_egg",
+		"count": 1
+	}
+}

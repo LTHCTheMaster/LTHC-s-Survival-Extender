@@ -3,6 +3,7 @@
   
   "overrides": [
         {"predicate": {"custom_model_data":101110}, "model": "lthc.svext:magmasium/items/magmasium_matter"},
-        {"predicate": {"custom_model_data":101111}, "model": "lthc.svext:magmasium/items/magmasium_crystal"}
+        {"predicate": {"custom_model_data":101111}, "model": "lthc.svext:magmasium/items/magmasium_crystal"},
+        {"predicate": {"custom_model_data":101112}, "model": "lthc.svext:terra/items/terra_matter"}
   ]
 }

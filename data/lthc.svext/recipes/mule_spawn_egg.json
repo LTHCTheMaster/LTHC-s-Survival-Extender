@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BLB",
+		"LEL",
+		"LLL"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bowl"
+		},
+		"L": {
+			"item": "minecraft:leather"
+		},
+		"E": {
+			"item": "minecraft:egg"
+		}
+	},
+	"result": {
+		"item": "minecraft:mule_spawn_egg",
+		"count": 1
+	}
+}

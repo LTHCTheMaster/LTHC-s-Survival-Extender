@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"FBF",
+		"BEB",
+		"FBF"
+	],
+	"key": {
+		"F": {
+			"item": "minecraft:feather"
+		},
+		"B": {
+			"item": "minecraft:black_dye"
+		},
+		"E": {
+			"item": "minecraft:egg"
+		}
+	},
+	"result": {
+		"item": "minecraft:bat_spawn_egg",
+		"count": 1
+	}
+}

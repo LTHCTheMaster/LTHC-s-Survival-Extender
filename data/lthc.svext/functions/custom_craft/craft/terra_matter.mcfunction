@@ -1,0 +1,2 @@
+tag @s add CCT_Display_Craft
+execute if entity @s[tag=CCT_Display_Craft] run data modify storage custom_crafting_table_lthc:craft Items[{Slot:15b}] merge value {id:"minecraft:command_block",Count:16b,tag:{CustomModelData:101112,lthc.terra_matter:1b,display:{Name:'{"translate": "Terra Matter","color": "#725C4B"}'}}}

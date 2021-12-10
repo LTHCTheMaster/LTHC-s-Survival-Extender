@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"LLL",
+		"LEL",
+		"LSL"
+	],
+	"key": {
+		"L": {
+			"item": "minecraft:leather"
+		},
+		"E": {
+			"item": "minecraft:egg"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:donkey_spawn_egg",
+		"count": 1
+	}
+}
