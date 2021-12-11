@@ -7,7 +7,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "nbt": "{SelectedItem:{id:\"minecraft:zombie_villager_spawn_egg\"}}"
+          "nbt": "{SelectedItem:{id:\"minecraft:barrier\"}}"
         }
       }
     }
