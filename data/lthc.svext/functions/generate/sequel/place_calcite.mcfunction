@@ -27,4 +27,4 @@ execute store result entity @s Pos[0] double 0.1 run scoreboard players get PosX
 execute if score PosY LTHC_Data2_ matches 1.. store result entity @s Pos[1] double 0.1 run scoreboard players get PosY LTHC_Data2_
 execute store result entity @s Pos[2] double 0.1 run scoreboard players get PosZ LTHC_Data2_
 
-execute at @s run setblock ~ ~ ~ calcite
+execute at @s unless block ~ ~ ~ #lthc.svext:already run setblock ~ ~ ~ calcite

@@ -29,14 +29,14 @@ execute store result entity @s Pos[2] double 0.1 run scoreboard players get PosZ
 
 execute at @s if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
 
-execute at @s positioned ~5.2 ~5.2 ~5.2 if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
+execute at @s positioned ~6.2 ~6.2 ~6.2 if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
 
-execute at @s positioned ~ ~5.2 ~5.2 if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
+execute at @s positioned ~ ~6.2 ~6.2 if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
 
-execute at @s positioned ~5.2 ~5.2 ~ if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
+execute at @s positioned ~6.2 ~6.2 ~ if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
 
-execute at @s positioned ~5.2 ~ ~5.2 if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
+execute at @s positioned ~6.2 ~ ~6.2 if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
 
-execute at @s positioned ~ ~5.2 ~ if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
+execute at @s positioned ~ ~6.2 ~ if block ~ ~ ~ #lthc.svext:veined_replaceable run function lthc.svext:generate/sequel/alea_place
 
 kill @s
