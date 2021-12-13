@@ -28,5 +28,6 @@
     "custom blocks: ": "blocs custom: ",
     "\ncustom ores: ": "\nminerais custom: ",
     " , custom seeds: ": " , graines custom: ",
-    "Click here to check if a new release is out": "Clic ici pour regarer si une nouvelle version est sortie"
+    "Click here to check if a new release is out": "Clic ici pour regarer si une nouvelle version est sortie",
+    " custom ores deleted": " minerais custom supprimés"
 }
