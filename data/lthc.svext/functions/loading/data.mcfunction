@@ -2,7 +2,10 @@ scoreboard players set 400 LTHC_Data_ 400
 scoreboard players set 390 LTHC_Data_ 390
 scoreboard players set 285 LTHC_Data_ 285
 scoreboard players set 260 LTHC_Data_ 260
+scoreboard players set 120 LTHC_Data_ 120
 scoreboard players set 45 LTHC_Data_ 45
+scoreboard players set 32 LTHC_Data_ 32
+scoreboard players set 18 LTHC_Data_ 18
 scoreboard players set -10 LTHC_Data_ -10
 scoreboard players set 10 LTHC_Data_ 10
 scoreboard players set 1 LTHC_Data_ 1
